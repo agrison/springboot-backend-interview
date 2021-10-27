@@ -55,11 +55,11 @@ Complete as much as you can during the allotted time 😃
 
 ### Bonus
 
-1) I want my server to use SSL.
-2) Secure both POST & DELETE endpoints with a JWT.
-3) Improve performance
-4) What if I finally want some JPA?
-5) Do you like Vavr? I do like Vavr. What if?
+1) Improve performance
+2) What if I finally want some JPA?
+3) Do you like Vavr? I do like Vavr. How can it improves the code?
+4) I want my server to use SSL.
+5) Secure both POST & DELETE endpoints with a JWT.
 
 ----
 
